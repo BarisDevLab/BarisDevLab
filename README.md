@@ -49,7 +49,7 @@ A Python-based inventory analysis application featuring:
 - Automated Excel reporting
 - Interactive Streamlit dashboard
 
-*Project repository coming soon.*
+**[View Project on GitHub](https://github.com/BarisDevLab/ABC-Inventory-Analysis)**
 
 ---
 
